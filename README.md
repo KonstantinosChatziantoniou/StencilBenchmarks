@@ -2,7 +2,7 @@
   
   Star stencil CUDA kernels.
   
-  NVIDIA implementation from 
+  NVIDIA implementation from  https://developer.download.nvidia.com/CUDA/CUDA_Zone/papers/gpu_3dfd_rev.pdf
 
   + `kernel_nvidia.cu` Block 16x16, Order 8, radius 4
   + `kernel_nvidia_4.cu` Block 32x32, Order 8, radius 4
